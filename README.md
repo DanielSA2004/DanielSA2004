@@ -14,13 +14,44 @@
 ###
 
 <p align="left">
-  I'm passionate about science, technology, and programming.  
-  As a Chemical Engineering student, I enjoy exploring how computational tools and simulations can be applied to materials science and process optimization.  
-  I also have a strong interest in developing software solutions using modern frameworks and programming languages.  
+  I'm passionate about science, technology, and programming.<br>
+  As a Chemical Engineering student, I enjoy exploring how computational tools and simulations can be applied to materials science and process optimization.<br>
+  I also have a strong interest in developing software solutions using modern frameworks and programming languages.
+</p>
+
+###
+
+<h3 align="left">🌍 Languages</h3>
+
+<p align="left">
+  🇪🇸 <b>Spanish:</b> Native<br>
+  🇬🇧 <b>English:</b> Advanced<br>
+  🇯🇵 <b>Japanese:</b> Intermediate
+</p>
+
+###
+
+<h2 align="left">Presentation</h2>
+
+###
+
+<p align="left">
+  👋 Hello! I'm Daniel, a Chemical Engineering student passionate about merging science with technology.  
+  I enjoy coding, learning new languages, and applying computational methods to real-world problems in chemistry and materials.  
+  I believe that understanding both the physical world and digital systems allows us to build smarter and more sustainable solutions.
 </p>
 
 <p align="left">
-  🌍 I speak <b>Spanish</b> (native), <b>English</b> (advanced), and <b>Japanese</b> (intermediate).  
+  🇪🇸 ¡Hola! Soy Daniel, estudiante de Ingeniería Química apasionado por combinar la ciencia con la tecnología.  
+  Me gusta programar, aprender nuevos idiomas y aplicar métodos computacionales a problemas reales en la química y los materiales.  
+  Creo que comprender tanto el mundo físico como los sistemas digitales nos permite construir soluciones más inteligentes y sostenibles.
+</p>
+
+<p align="left">
+  🇯🇵 こんにちは！ダニエルです。私はカタルヘナ大学の化学工学の学生です。  
+  科学と技術を結びつけることに情熱を持っており、プログラミングや新しい言語を学ぶことが好きです。  
+  コンピューテーションの力を使って、現実の化学や材料の問題を解決したいと考えています。  
+  物理的な世界とデジタルの世界の両方を理解することで、よりスマートで持続可能な未来を作れると信じています。
 </p>
 
 ###
